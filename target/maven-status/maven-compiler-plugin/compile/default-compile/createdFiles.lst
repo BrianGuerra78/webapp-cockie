@@ -1,0 +1,8 @@
+org\bguerra\apiserclet\webapp\headers\services\LoginServiceImpl.class
+org\bguerra\apiserclet\webapp\headers\controlers\LogoutServlet.class
+org\bguerra\apiserclet\webapp\headers\controlers\LoginServlet.class
+org\bguerra\apiserclet\webapp\headers\services\LoginService.class
+org\bguerra\apiserclet\webapp\headers\services\ProductoService.class
+org\bguerra\apiserclet\webapp\headers\services\ProductoServiceImpl.class
+org\bguerra\apiserclet\webapp\headers\controlers\ProductoServlet.class
+org\bguerra\apiserclet\webapp\headers\models\Producto.class
